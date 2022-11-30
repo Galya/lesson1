@@ -1,5 +1,0 @@
-C:\Git\HomeWork\Taks8\obj\Debug\net6.0\Taks8.csproj.AssemblyReference.cache
-C:\Git\HomeWork\Taks8\obj\Debug\net6.0\Taks8.GeneratedMSBuildEditorConfig.editorconfig
-C:\Git\HomeWork\Taks8\obj\Debug\net6.0\Taks8.AssemblyInfoInputs.cache
-C:\Git\HomeWork\Taks8\obj\Debug\net6.0\Taks8.AssemblyInfo.cs
-C:\Git\HomeWork\Taks8\obj\Debug\net6.0\Taks8.csproj.CoreCompileInputs.cache
